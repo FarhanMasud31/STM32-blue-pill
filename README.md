@@ -2,7 +2,8 @@ learning kicad
 
 STM32 blue pill
 
-followed this as reference
+followed theses as reference:
+
 https://github.com/Jzuni97/STM32-Blue-Pill/tree/main
 
 https://www.youtube.com/watch?v=aVUqaB0IMh4&t=274s
